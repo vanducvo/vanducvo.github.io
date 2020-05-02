@@ -107,7 +107,7 @@ class Navigation extends React.Component{
                 link: "#education"
             },
             {
-                name: "Skill",
+                name: "Skills",
                 link: "#skills"
             },
             {
